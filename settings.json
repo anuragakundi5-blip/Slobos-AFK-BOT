@@ -5,8 +5,8 @@
     "password": "",
     "type": "offline"
   },
-  "server": {AnuragAkundi.aternos.me:39370
-    "ip": "slobos13.aternos.me",
+  "server": {
+    "ip": "AnuragAkundi.aternos.me",
     "port": 39370,
     "version": "1.21.1"
   },
